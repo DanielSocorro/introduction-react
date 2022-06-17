@@ -1,0 +1,13 @@
+.TodoCounter {
+    display: inline-block;
+    width: 400px;
+    height: 100px;
+    background-image:url(./img/mu-logo.png);
+    background-repeat: no-repeat;
+    background-size: 120px;
+    font-size: 24px;
+    text-align: right;
+    margin-left: 10px;
+    padding: 10px;
+    align-items: center;
+};
