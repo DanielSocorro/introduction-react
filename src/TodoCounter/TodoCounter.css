@@ -1,0 +1,15 @@
+.TodoCounter {
+    font-family: 'Josefin Sans', sans-serif;
+    display: inline-block;
+    width: 400px;
+    height: 100px;
+    background-image:url(../img/mu-logo.png);
+    background-repeat: no-repeat;
+    background-size: 120px;
+    font-size: 27px;
+    text-align: right;
+    margin-left: 35px;
+    margin-top: 10px;
+    padding: 47px;
+
+};
