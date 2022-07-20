@@ -1,9 +1,14 @@
+.TodoCounterimg {
+    background-image:url(../img/mu-logo.png);
+    background-repeat: no-repeat;
+    width: 29vw;
+    height: 30vh;
+    display: flex;
+}
 .TodoCounter {
     font-family: 'Josefin Sans', sans-serif;
-  
     width: 465px;
     height: 150px;
-    background-image:url(../img/mu-logo.png);
     background-repeat: no-repeat;
     background-size: 140px;
     font-size: 29px;
