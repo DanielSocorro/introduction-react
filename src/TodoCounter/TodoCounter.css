@@ -1,6 +1,6 @@
 .TodoCounter {
     font-family: 'Josefin Sans', sans-serif;
-    display: flex;
+  
     width: 465px;
     height: 150px;
     background-image:url(../img/mu-logo.png);
@@ -14,5 +14,5 @@
     flex-wrap: nowrap;
     justify-content: center;
     align-items: flex-end;
-
+    display: flex;
 };
