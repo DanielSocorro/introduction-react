@@ -6,7 +6,7 @@
     height: 70px;
     width: 48px;
 }
-.Icon-container--check {
+.Icon-svg--check {
     position: absolute;
     left: 12px;
     size: 10px;
@@ -22,7 +22,7 @@
     height: 40px;
     transition: fill .15s;
 }
-.Icon-container--check:hover .Icon-svg .Icon-svg--check {
+.Icon-container--check .Icon-svg .Icon-svg--check:hover {
     fill:#4caf50;
 }
 .Icon-container:hover .Icon-svg .Icon-svg--delete {
